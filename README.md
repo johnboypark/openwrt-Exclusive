@@ -16,7 +16,6 @@ lean源码版本，内核为***5.10、5.15、6.0***
 
 自动每3天更新一次，手动不定时更新
 
-> `管理ip：192.168.1.1 密码：password`
 
 ### 注意：
 
@@ -30,5 +29,4 @@ lean源码版本，内核为***5.10、5.15、6.0***
 ## 固件截图：
 ### 5.10版
 ![avatar](https://raw.githubusercontent.com/firkerword/openwrt-Exclusive/main/boc/c.jpg)
-## 其他
-联系：[Tg频道订阅](https://t.me/zhinengchaoshenzhe)
+
